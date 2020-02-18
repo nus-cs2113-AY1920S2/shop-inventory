@@ -1,3 +1,4 @@
+calendars
 files
 eraser
 paper
@@ -5,3 +6,4 @@ pen
 pencil
 paper clips
 stapler
+sticky notes
