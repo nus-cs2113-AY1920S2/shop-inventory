@@ -1,10 +1,7 @@
 banana
-<<<<<<< HEAD
 beans
-=======
 carrot
 cheese
->>>>>>> employee-john
 dates
 egg
 fish
